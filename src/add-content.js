@@ -1,3 +1,3 @@
 export default function() {
-  document.write('I am using npm scripts!');
+  document.write('Test using webpack.config.js!');
 }
