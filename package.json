@@ -1,0 +1,23 @@
+{
+  "name": "webpack-learningdemo",
+  "version": "1.0.0",
+  "description": "webpack练习项目1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvenyYlzz/Webpack-learningDemo.git"
+  },
+  "author": "EvenyYlzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvenyYlzz/Webpack-learningDemo/issues"
+  },
+  "homepage": "https://github.com/EvenyYlzz/Webpack-learningDemo#readme",
+  "devDependencies": {
+    "webpack": "^5.48.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
